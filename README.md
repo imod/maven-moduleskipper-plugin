@@ -12,7 +12,7 @@ Please this in the parent pom
 	<build>
 		<extensions>
 			<extension>
-				<groupId>com.fortysix.maven</groupId>
+				<groupId>ch.fortysix.maven</groupId>
 				<artifactId>maven-moduleskipper-plugin</artifactId>
 				<version>0.0.1-SNAPSHOT</version>
 			</extension>
